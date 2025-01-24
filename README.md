@@ -8,7 +8,7 @@ Software engineering student living in Santa Catarina and passionate about techn
 <div>
 <a href="https://www.linkedin.com/in/jotavf" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/5547992204170" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"></a>
-<a href = "mailto:j-joaovictor@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
+<a href = "mailto:j-joaovictor2010@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge"></a>
 </div>
 
 ## 💻 Languages and Tools
