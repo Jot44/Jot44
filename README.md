@@ -11,12 +11,4 @@ Software engineering student living in Santa Catarina and passionate about techn
 </div>
 
 ## 💻 Languages and Tools
-<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Javascript.svg">
-<img alt="Node" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/NodeJS.svg">
-<img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg">
-<img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
-<img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Java.svg">
-<img alt="Spring Boot" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring Boot.svg">
-<img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Docker.svg">
-<img alt="PostgreSQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg">
-<img alt="MongoDB" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg">
+<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Javascript.svg"> <img alt="Node" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/NodeJS.svg"> <img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg"> <img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg"> <img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Java.svg"> <img alt="Spring Boot" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring%20Boot.svg"> <img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Docker.svg"> <img alt="PostgreSQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg"> <img alt="MongoDB" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg">
