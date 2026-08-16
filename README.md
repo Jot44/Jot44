@@ -11,4 +11,12 @@ Software engineering student living in Santa Catarina and passionate about techn
 </div>
 
 ## 💻 Languages and Tools
-![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge) ![CSS](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white&style=for-the-badge) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Node](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white&style=for-the-badge) ![GIT](https://img.shields.io/badge/Git-E34F26?logo=git&logoColor=white&style=for-the-badge)
+<img alt="Javascript" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Javascript.svg">
+<img alt="Node" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/NodeJS.svg">
+<img alt="React" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/React.svg">
+<img alt="Python" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Python.svg">
+<img alt="Java" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Java.svg">
+<img alt="Spring Boot" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Spring Boot.svg">
+<img alt="Docker" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/Docker.svg">
+<img alt="PostgreSQL" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/PostgreSQL.svg">
+<img alt="MongoDB" height="60" width="60" src="https://github.com/gui-bus/TechIcons/blob/main/Light/MongoDB.svg">
